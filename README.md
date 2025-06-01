@@ -16,6 +16,6 @@ Designed and built a **heavy-duty fabrication table** integrated with a saw cutt
 - Helped standardize fabrication setup across teams.
 
 ## Tools & Technologies
-- SolidWorks (CAD)
+- CREO & Solidworks (CAD)
 - Steel frame construction
 - Shop layout optimization
